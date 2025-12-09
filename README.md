@@ -1,7 +1,7 @@
 # Adidas-Sales-Analysis-Excel
 
 <p align="center">
-  <img src="https://github.com/anthonymike180/Adidas-Sales-Analysis-Excel/blob/main/Screenshot%20(165).png" width="700">
+  <img src="https://github.com/anthonymike180/Adidas-Sales-Analysis-Excel/blob/main/Image.png" width="700">
 </p>
 
 A Microsoft Excel–based sales analysis and dashboard project for sales data from an Adidas store/brand.  
@@ -27,16 +27,31 @@ It includes analyses such as:
 
 1. Download or clone the repository.  
 2. Open <a href="https://github.com/anthonymike180/Adidas-Sales-Analysis-Excel/blob/main/Addidas_Sales_Analysis.xlsx">Excel file / Workings</a> in Microsoft Excel.  
-3. Navigate through the sheets — there should be raw data, analyses, and dashboard/report sheets.  
+3. Navigate through the sheets as you wish.  
 4. Explore charts and pivot-based tables to view insights, trends, and performance metrics.
 
-## Purpose & Audience
+## Tools & Techniques Used
+
+- Microsoft Excel  
+  - Data cleaning & structuring  
+  - Pivot tables & pivot charts  
+  - Formulas and calculations  
+  - Visual charts / graphs  
+  - Formatting for dashboard-style presentation
+  
+## Objective
 
 This project is a demonstration of Excel-based data analysis and dashboard building.  
-It’s useful for:
+- Analyze Adidas sales data and identify key performance trends.
+- Build an interactive Excel dashboard for easy visualization of sales insights.
+- Track sales performance across products, regions, and time periods.
+- Transform raw data into actionable business insights for decision-making.
 
-- Anyone learning data analysis with Excel  
-- Portfolio showcase for data- or business-analysis roles  
-- Quick sales-performance reporting using spreadsheets  
+## Author
+Anthony Michael
+anthonymike180@gmail.com
+
+---
+
 
 
