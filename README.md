@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis-Excel
+# Adidas Sales Analysis Excel
 
 <p align="center">
   <img src="https://github.com/anthonymike180/Adidas-Sales-Analysis-Excel/blob/main/Image.png" width="700">
