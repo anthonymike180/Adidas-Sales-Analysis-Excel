@@ -1,5 +1,9 @@
 # Adidas-Sales-Analysis-Excel
 
+<p align="center">
+  <img src="https://github.com/anthonymike180/Adidas-Sales-Analysis-Excel/blob/main/Screenshot%20(165).png" width="700">
+</p>
+
 A Microsoft Excel–based sales analysis and dashboard project for sales data from an Adidas store/brand.  
 It’s designed to help analyze sales performance, product performance, and generate insights from raw sales data using Excel.
 
